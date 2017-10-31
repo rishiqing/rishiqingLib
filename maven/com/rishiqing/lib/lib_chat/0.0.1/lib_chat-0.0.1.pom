@@ -32,9 +32,9 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>RiShiQing</groupId>
+      <groupId>maven.com.rishiqing.lib</groupId>
       <artifactId>library_Jlib_KeyboardPanelSwitch</artifactId>
-      <version>unspecified</version>
+      <version>0.0.1</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
