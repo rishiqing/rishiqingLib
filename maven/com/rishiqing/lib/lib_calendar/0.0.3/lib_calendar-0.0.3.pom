@@ -26,9 +26,9 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>RiShiQing</groupId>
+      <groupId>maven.com.rishiqing.lib</groupId>
       <artifactId>lib</artifactId>
-      <version>unspecified</version>
+      <version>0.0.3</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>
