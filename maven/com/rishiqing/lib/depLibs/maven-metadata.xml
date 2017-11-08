@@ -3,12 +3,13 @@
   <groupId>maven.com.rishiqing.lib</groupId>
   <artifactId>depLibs</artifactId>
   <versioning>
-    <release>0.0.5</release>
+    <release>0.0.6</release>
     <versions>
       <version>0.0.3</version>
       <version>0.0.4</version>
       <version>0.0.5</version>
+      <version>0.0.6</version>
     </versions>
-    <lastUpdated>20171108023653</lastUpdated>
+    <lastUpdated>20171108064213</lastUpdated>
   </versioning>
 </metadata>
