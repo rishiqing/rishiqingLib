@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>maven.com.rishiqing.lib</groupId>
   <artifactId>lib_chat</artifactId>
-  <version>0.1.9</version>
+  <version>0.2.0</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
@@ -38,15 +38,9 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>RiShiQing</groupId>
-      <artifactId>library_Jlib_KeyboardPanelSwitch</artifactId>
-      <version>unspecified</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>com.android.support.constraint</groupId>
       <artifactId>constraint-layout</artifactId>
-      <version>1.0.2</version>
+      <version>1.1.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
